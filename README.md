@@ -1,1 +1,1 @@
-Rock, Paper, Scissors Game 🎮 - A classic game brought to life with a fun twist! Challenge yourself or a friend to quick rounds, make your move, and see who comes out on top. Built for a quick dose of enjoyment and nostalgia!
+Simon Game 🟢🔴🔵🟡 - Test your memory with this classic Simon game remake! Follow the color sequences as they get more challenging with each round. Perfect for a fun mental workout and a trip down memory lane!
